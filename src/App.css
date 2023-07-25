@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+     height: 100vh;
+     padding-top: 10px;
+     background-color: blue;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: center;
+}
+.Calculinvittoria-logo-contenedor{
+  width: 100%;
+  height: 50px;
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Calculinvittoria-logo{
+  height: 100px;
+}
+.contenedor-calculadora{
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: darkorange;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
